@@ -36,4 +36,15 @@ public class InvokePrimjeri : MonoBehaviour
 
         Instantiate(objekt[rng], new Vector3(randomX, randomY, randomZ), Quaternion.identity);
     }
+
+    private void GlupiHpZadatak(ref float hp)
+    {
+        hp += 5;
+        hp -= (hp / 100) * 2.5f;
+    }
+    private void OnTriggerStay(Collider other)
+    {
+        float hp = default;
+        hp += 5 * Time.deltaTime;
+    }
 }
