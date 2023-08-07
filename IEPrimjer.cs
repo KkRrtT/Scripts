@@ -17,8 +17,8 @@ public class IEPrimjer : MonoBehaviour
         {            
             minute = (int)timer / 60;
             if (sekunde == 60) sekunde = 0;
-            string vrijeme = $"Vrijeme je: {minute} : {sekunde}";
-            print(vrijeme);
+            //string vrijeme = $"Vrijeme je: {minute} : {sekunde}";
+            //print(vrijeme);
             print(string.Format("{0:00} : {1:00}", minute, sekunde));
             print(minute);
             yield return new WaitForSeconds(1);
