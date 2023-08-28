@@ -708,7 +708,7 @@
 
 .radioIconForeground-2BMavi {
     color: white;
-    r: 9;
+
 }
 
 .theme-dark .markValue-21gAVC {
@@ -1165,7 +1165,7 @@
 
 .reaction-3vwAF2.reactionMe-1PwQAc {
     background-color: transparent;
-    border: 2px outset rgb(206, 27, 27) !important;
+    border: 2px outset rgb(53, 155, 223) !important;
 }
 
 .reaction-3vwAF2 {
@@ -1176,7 +1176,7 @@
 
 .reaction-3vwAF2:hover {
     background-color: transparent;
-    border: 2px outset rgb(206, 27, 27);
+    border: 2px outset rgb(31, 57, 207);
 }
 
 .reactionCount-26U4As {
@@ -1427,7 +1427,7 @@
 }
 
 .searchBar-3TnChZ .searchBarComponent-3N7dCG {
-    background-color: rgba(14, 13, 13, 0.377);
+    background-color: rgba(43, 41, 41, 0.377);
     color: white;
     font-size: 16px;
 }
@@ -1462,7 +1462,7 @@
     border-radius: 0 6px 6px 0;
     text-transform: capitalize;
     color: #fff;
-    background-color: rgb(26, 23, 23);
+    background-color: rgb(34, 29, 29);
 }
 
 .unreadPillCapStroke-1nE1Q8 {
@@ -1644,7 +1644,7 @@
 }
 
 .theme-dark .searchAnswer-23w-CH, .theme-dark .searchFilter-2UfsDk {
-    background-color: #912;
+    background-color: rgb(48, 42, 43);
 }
 
 .searchBar-jGtisZ {
@@ -1720,8 +1720,8 @@
 
 
 .connectedAccountContainer-3aLMHJ {
-    border: 2px ridge #C13;
-    background-color: rgba(153, 17, 33, .77);
+    border: 2px ridge rgb(58, 51, 52);
+    background-color: rgba(44, 37, 38, 0.77);
     border-radius: 6px;
 }
 
@@ -1840,7 +1840,7 @@
 
 
 .fakeLink-2FvUR7 {
-    color: red;
+    color: rgb(65, 55, 55);
     font-weight: bold;
 }
 
@@ -2090,7 +2090,7 @@
 }
 
 .theme-dark .clickable-2V8YKY[aria-disabled=false]>.base-2v-uc0:hover, .clickable-2V8YKY[aria-selected=true]>.base-2v-uc0 {
-    background-color: rgba(0, 0, 0, 0.3);
+    background-color: rgba(66, 63, 63, 0.3);
 }
 
 .selected-3B2w1z, .selected-3B2w1z:hover {
@@ -2136,13 +2136,13 @@
 
 .modeSelected-3DmyhH .icon-2W8DHg, .modeSelected-3DmyhH:hover .icon-2W8DHg,
 .modeSelected-3DmyhH .name-28HaxV, .modeSelected-3DmyhH:hover .name-28HaxV  {
-    color: white;
+    color: rgb(52, 158, 245);
 }
 
 
 .modeUnread-3Cxepe .icon-2W8DHg, .modeUnread-3Cxepe:hover .icon-2W8DHg,
 .modeUnread-3Cxepe .name-28HaxV, .modeUnread-3Cxepe:hover .name-28HaxV {
-    color: lightsalmon;
+    color: rgb(204, 82, 82);
 }
 
 .wrapper-NhbLHG:hover .link-1_kTxV {
@@ -2475,7 +2475,7 @@
     box-shadow: none;
 }
 .header-1Uy0p6:hover:not(.headerBorder-jrk0Ic) {
-    border: 2px solid rgb(34, 27, 28);
+    border: 2px solid rgb(58, 52, 53);
 }
 .theme-dark .container-q2_DnH.isOpen-2Gyel_ {
     background-color: rgba(36, 29, 30, 0.7);
@@ -2534,7 +2534,7 @@
     border-top-color: transparent;
 }
 .container-3YcgdM {
-    background-color: rgba(0, 0, 0, 0.3);
+    background-color: rgba(36, 31, 31, 0.3);
 }
 .addReactButton-3bSQb6, 
 .buttonInner-3aRbcx {
@@ -2577,7 +2577,7 @@
     border-bottom: none;
 }
 .interactiveCard-2iMtdk {
-    border: 2px solid rgba(27, 24, 24, 0.76);
+    border: 2px solid rgba(10, 10, 10, 0.76);
     box-shadow: none;
 }
 .card-3x20HF {
@@ -2832,7 +2832,7 @@
 }
 
 .categoryPill-1zjNrr.selected-bLcqYK {
-    background-color: black;
+    background-color: rgb(65, 57, 57);
 }
 
 .scroller-RfJjkV,
@@ -3439,7 +3439,7 @@ border-top-color: rgba(27, 27, 27, 0.719);
 }
 
 .box-2iMsQm {
-    background-color: #181818;
+    background-color: #000000;
 }
 
 .box-2iMsQm:after {
@@ -3510,7 +3510,7 @@ border-top-color: rgba(27, 27, 27, 0.719);
 }
 
 .emojiPickerHeader-2mWh2T {
-    background: #141414;
+    background: #000000;
 }
 
 
