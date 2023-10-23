@@ -1,0 +1,14 @@
+C:\Users\Korisnik\Desktop\projekti\Skripte\Assets\Scripts\c#\MAtrica\bin\Debug\net6.0\MAtrica.exe
+C:\Users\Korisnik\Desktop\projekti\Skripte\Assets\Scripts\c#\MAtrica\bin\Debug\net6.0\MAtrica.deps.json
+C:\Users\Korisnik\Desktop\projekti\Skripte\Assets\Scripts\c#\MAtrica\bin\Debug\net6.0\MAtrica.runtimeconfig.json
+C:\Users\Korisnik\Desktop\projekti\Skripte\Assets\Scripts\c#\MAtrica\bin\Debug\net6.0\MAtrica.dll
+C:\Users\Korisnik\Desktop\projekti\Skripte\Assets\Scripts\c#\MAtrica\bin\Debug\net6.0\MAtrica.pdb
+C:\Users\Korisnik\Desktop\projekti\Skripte\Assets\Scripts\c#\MAtrica\obj\Debug\net6.0\MAtrica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Korisnik\Desktop\projekti\Skripte\Assets\Scripts\c#\MAtrica\obj\Debug\net6.0\MAtrica.AssemblyInfoInputs.cache
+C:\Users\Korisnik\Desktop\projekti\Skripte\Assets\Scripts\c#\MAtrica\obj\Debug\net6.0\MAtrica.AssemblyInfo.cs
+C:\Users\Korisnik\Desktop\projekti\Skripte\Assets\Scripts\c#\MAtrica\obj\Debug\net6.0\MAtrica.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\Desktop\projekti\Skripte\Assets\Scripts\c#\MAtrica\obj\Debug\net6.0\MAtrica.dll
+C:\Users\Korisnik\Desktop\projekti\Skripte\Assets\Scripts\c#\MAtrica\obj\Debug\net6.0\refint\MAtrica.dll
+C:\Users\Korisnik\Desktop\projekti\Skripte\Assets\Scripts\c#\MAtrica\obj\Debug\net6.0\MAtrica.pdb
+C:\Users\Korisnik\Desktop\projekti\Skripte\Assets\Scripts\c#\MAtrica\obj\Debug\net6.0\MAtrica.genruntimeconfig.cache
+C:\Users\Korisnik\Desktop\projekti\Skripte\Assets\Scripts\c#\MAtrica\obj\Debug\net6.0\ref\MAtrica.dll

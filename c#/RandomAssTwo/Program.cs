@@ -70,8 +70,7 @@ namespace RandomAssTwo
 
         static void Main(string[] args)
         {
-            Console.Write("What is your name, human? "); // Notice the space at the end.
-            string userName = Console.ReadLine();
+            var row = Console.ReadLine();
         }
     }
 }
