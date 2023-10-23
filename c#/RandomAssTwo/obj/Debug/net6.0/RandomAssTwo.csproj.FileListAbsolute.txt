@@ -1,0 +1,14 @@
+C:\Users\Korisnik\Desktop\c#\RandomAssTwo\bin\Debug\net6.0\RandomAssTwo.exe
+C:\Users\Korisnik\Desktop\c#\RandomAssTwo\bin\Debug\net6.0\RandomAssTwo.deps.json
+C:\Users\Korisnik\Desktop\c#\RandomAssTwo\bin\Debug\net6.0\RandomAssTwo.runtimeconfig.json
+C:\Users\Korisnik\Desktop\c#\RandomAssTwo\bin\Debug\net6.0\RandomAssTwo.dll
+C:\Users\Korisnik\Desktop\c#\RandomAssTwo\bin\Debug\net6.0\RandomAssTwo.pdb
+C:\Users\Korisnik\Desktop\c#\RandomAssTwo\obj\Debug\net6.0\RandomAssTwo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Korisnik\Desktop\c#\RandomAssTwo\obj\Debug\net6.0\RandomAssTwo.AssemblyInfoInputs.cache
+C:\Users\Korisnik\Desktop\c#\RandomAssTwo\obj\Debug\net6.0\RandomAssTwo.AssemblyInfo.cs
+C:\Users\Korisnik\Desktop\c#\RandomAssTwo\obj\Debug\net6.0\RandomAssTwo.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\Desktop\c#\RandomAssTwo\obj\Debug\net6.0\RandomAssTwo.dll
+C:\Users\Korisnik\Desktop\c#\RandomAssTwo\obj\Debug\net6.0\refint\RandomAssTwo.dll
+C:\Users\Korisnik\Desktop\c#\RandomAssTwo\obj\Debug\net6.0\RandomAssTwo.pdb
+C:\Users\Korisnik\Desktop\c#\RandomAssTwo\obj\Debug\net6.0\RandomAssTwo.genruntimeconfig.cache
+C:\Users\Korisnik\Desktop\c#\RandomAssTwo\obj\Debug\net6.0\ref\RandomAssTwo.dll
