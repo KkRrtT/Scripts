@@ -1,0 +1,14 @@
+C:\Users\Korisnik\Desktop\projekti\Skripte\Assets\Scripts\c#\DayThree\bin\Debug\net6.0\DayThree.exe
+C:\Users\Korisnik\Desktop\projekti\Skripte\Assets\Scripts\c#\DayThree\bin\Debug\net6.0\DayThree.deps.json
+C:\Users\Korisnik\Desktop\projekti\Skripte\Assets\Scripts\c#\DayThree\bin\Debug\net6.0\DayThree.runtimeconfig.json
+C:\Users\Korisnik\Desktop\projekti\Skripte\Assets\Scripts\c#\DayThree\bin\Debug\net6.0\DayThree.dll
+C:\Users\Korisnik\Desktop\projekti\Skripte\Assets\Scripts\c#\DayThree\bin\Debug\net6.0\DayThree.pdb
+C:\Users\Korisnik\Desktop\projekti\Skripte\Assets\Scripts\c#\DayThree\obj\Debug\net6.0\DayThree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Korisnik\Desktop\projekti\Skripte\Assets\Scripts\c#\DayThree\obj\Debug\net6.0\DayThree.AssemblyInfoInputs.cache
+C:\Users\Korisnik\Desktop\projekti\Skripte\Assets\Scripts\c#\DayThree\obj\Debug\net6.0\DayThree.AssemblyInfo.cs
+C:\Users\Korisnik\Desktop\projekti\Skripte\Assets\Scripts\c#\DayThree\obj\Debug\net6.0\DayThree.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\Desktop\projekti\Skripte\Assets\Scripts\c#\DayThree\obj\Debug\net6.0\DayThree.dll
+C:\Users\Korisnik\Desktop\projekti\Skripte\Assets\Scripts\c#\DayThree\obj\Debug\net6.0\refint\DayThree.dll
+C:\Users\Korisnik\Desktop\projekti\Skripte\Assets\Scripts\c#\DayThree\obj\Debug\net6.0\DayThree.pdb
+C:\Users\Korisnik\Desktop\projekti\Skripte\Assets\Scripts\c#\DayThree\obj\Debug\net6.0\DayThree.genruntimeconfig.cache
+C:\Users\Korisnik\Desktop\projekti\Skripte\Assets\Scripts\c#\DayThree\obj\Debug\net6.0\ref\DayThree.dll
