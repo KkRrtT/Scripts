@@ -106,7 +106,7 @@ namespace DayThree
             {
                 try
                 {
-                    string filePath = @"C: \Users\Korisnik\Desktop\73Z_2108.w032.n003.52B.p1.52.jpg";
+                    string filePath = @"Users\Korisnik\Desktop\73Z_2108.w032.n003.52B.p1.52.jpg";
                     File.Delete(filePath);
                     Console.WriteLine("File deleted successfully.");
                 }
@@ -116,6 +116,8 @@ namespace DayThree
                 }
                 string Wait = Console.ReadLine();
             }
+
+            UserLoopedTheSecond();
            
         }
     }

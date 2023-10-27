@@ -10,12 +10,6 @@
 
 @import url(https://puckzxz.github.io/NotAnotherAnimeTheme/build/v3/naat.v3.css);
 @import url("https://warrayquipsome.github.io/NOVATURIENT/HorizontalServer.css");
-@import url("https://warrayquipsome.github.io/NOVATURIENT/AvatarOnlyMemberList.css");
-.app-2CXKsg {
-    background-image: url(https://i.pinimg.com/originals/52/04/31/5204316c0e0cc1bf933392f108d51978.jpg);
-    background-size: cover;
-    background-color: transparent;
-}
 /*
   To make editing this theme easier I recommend using Notepad++
   you can download it for free here https://notepad-plus-plus.org/download/
@@ -27,12 +21,12 @@
   /*
     Theme Background
   */
-  --theme-background-image: url(https://i.imgur.com/j1Z6HVc.jpg);
+  --theme-background-image: url(https://i.pinimg.com/originals/52/04/31/5204316c0e0cc1bf933392f108d51978.jpg);
 
   /*
     Main Theme Color
   */
-  --main-theme-color: rgb(22, 95, 179);
+  --main-theme-color: rgb(71, 132, 223);
 
   /*
     Main Theme Transparency
@@ -42,7 +36,7 @@
   /*
     Home Icon Image
   */
-  --home-icon-image: url(https://i.imgur.com/CKXoPa1.jpeg);
+  --home-icon-image: url(https://i.imgur.com/63g6Em8.jpg);
 
   /*
     Change your friends icon image position
